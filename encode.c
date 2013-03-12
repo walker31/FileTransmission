@@ -1,3 +1,13 @@
+/*
+* This file defines common formats for Linpop, a LAN chatting program
+* Linpop follows the IP Messenger communication protocol (Draft-9)
+* you can obtain a copy of Linpop at
+*
+*	http://code.google.com/p/linpop
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the Apache 2.0 License.
+*/
 #include <iconv.h>
 #include <string.h>
 

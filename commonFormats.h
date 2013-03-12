@@ -1,6 +1,4 @@
 /*
-* Copyright 2012	Team#6, F2-101, Neusoft
-*
 * This file defines common formats for Linpop, a LAN chatting program
 * Linpop follows the IP Messenger communication protocol (Draft-9)
 * you can obtain a copy of Linpop at
